@@ -1,4 +1,4 @@
-# [Your Project Name] 🚀
+# [RAG MODEL ] 🚀
 
 <p align="center">
   <img src="https://img.shields.io/github/license/[your-username]/[repository-name]" alt="License">
