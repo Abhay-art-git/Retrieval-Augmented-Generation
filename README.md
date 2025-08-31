@@ -34,7 +34,7 @@ A powerful and easy-to-use Retrieval-Augmented Generation (RAG) model designed t
 
 ## About The Project
 
-**[Your Project Name]** bridges the gap between Large Language Models (LLMs) and your private knowledge base. Standard LLMs have a knowledge cut-off and can't access your proprietary documents. This RAG model overcomes that limitation by first retrieving relevant information from your provided data and then using an LLM to generate a human-like, context-aware answer.
+**[RAG MODEL]** bridges the gap between Large Language Models (LLMs) and your private knowledge base. Standard LLMs have a knowledge cut-off and can't access your proprietary documents. This RAG model overcomes that limitation by first retrieving relevant information from your provided data and then using an LLM to generate a human-like, context-aware answer.
 
 This project was built to [mention your motivation, e.g., "provide a simple framework for developers to build custom Q&A bots," or "explore advanced RAG techniques"].
 
